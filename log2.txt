@@ -1,16 +1,5 @@
-03.03.2025 import random
-
-
-fb_gol = random.randint(0, 5)  
-gs_gol = random.randint(0, 5)  
-
-
-print(f"Fenerbahçe {fb_gol} - {gs_gol} Galatasaray")
-
-
-if fb_gol > gs_gol:
-    print("Kazanan: Fenerbahçe")
-elif gs_gol > fb_gol:
-    print("Kazanan: Galatasaray")
-else:
-    print("Maç berabere!")
+2025-03-03 10:00 - Python ile rastgele sayı üretimi yapıldı.
+2025-03-03 10:05 - Fenerbahçe ve Galatasaray için 0 ile 5 arasında rastgele gol sayıları belirlendi.
+2025-03-03 10:06 - Maç sonucu ekrana yazdırıldı: "Fenerbahçe X - Y Galatasaray"
+2025-03-03 10:07 - Kazanan takım belirlendi ve ekrana yazdırıldı.
+2025-03-03 10:08 - Beraberlik durumunda "Maç berabere!" mesajı verildi.
