@@ -1,0 +1,1 @@
+Bu hafta Fenerbahçe ve Galatasaray maçını iki takımında maksimum 5 gol atacağı şekilde simüle eden bir kod yazdık.
