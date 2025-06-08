@@ -1,1 +1,1 @@
-Bu hafta Fenerbahçe ve Galatasaray maçını iki takımında maksimum 5 gol atacağı şekilde simüle eden bir kod yazdık.
+Hafta 2: Python'da random modülünü kullanarak Fenerbahçe ve Galatasaray için 0 ile 5 arasında rastgele gol sayıları ürettim. Bu sayılarla maç skorunu yazdırdım ve hangi takımın kazandığını veya maçın berabere bittiğini belirleyen basit bir kontrol mekanizması oluşturdum.
